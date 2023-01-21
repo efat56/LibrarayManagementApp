@@ -1,6 +1,6 @@
 # LibrarayManagementApp
 ## Here is Simple Library Management Application with following Functionalitiees...</n>
-- dd a new book
+- Add a new book
 - Search for any book
 - Display the book details.
 - Update the count of the total number of books.
